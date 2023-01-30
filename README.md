@@ -3,7 +3,7 @@
  ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning *Data Structures and Algorithms and am also interested*
+- 🌱 I’m currently learning *Data Structures and Algorithms and am also interested in Competitive Programming*
 - 🔥 I'm also trying to hone my skills in the field of  *Web Developement*
 - 📫 Drop a mail at *himanshushrivastava2881@gmail.com*
 
@@ -19,7 +19,7 @@
     </a>
 </p>
 
-<a href="https://github.com/hshrivastav/github-readme-activity-graph"><img alt="Himanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hshrivastav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 ## Connect with me  
 <div align="center">
