@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hey there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**hshrivastav/hshrivastav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## 🙋‍♂️ About Me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning *Data Structures and Algorithms and am also interested*
+- 🔥 I'm also trying to hone my skills in the field of  *Web Developement*
+- 📫 Drop a mail at *himanshushrivastava2881@gmail.com*
+
+### 👀 My Github Stats
+
+[![Himanshu's github stats](https://github-readme-stats.vercel.app/api?username=hshrivastav&count_private=true&show_icons=true&theme=radical)](https://github.com/hshrivastav)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hshrivastav&show_icons=true&theme=radical&layout=compact)](https://github.com/hshrivastav)
+</a>
+
+<p align="center">
+    <a href="https://github.com/hshrivastav/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Himanshu's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hshrivastav&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<a href="https://github.com/hshrivastav/github-readme-activity-graph"><img alt="Himanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hshrivastav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/hshrivastav" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/himanshu-shrivastava-25a073204/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+  
+
+
+</div>  
+
+
+ 
+## And...
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
